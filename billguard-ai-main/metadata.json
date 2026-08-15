@@ -1,0 +1,8 @@
+{
+  "name": "Remix BillGuard AI",
+  "description": "AI-powered subscription killer, recurring bill scanner, price hike detector, and negotiation tool for US consumers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
